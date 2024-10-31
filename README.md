@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Naresh02122004
+- 👋 Hi, I’m @Naresh
 - 👀 I’m interested in doing projects
 - 🌱 I’m currently learning gethub 
 - 💞️ I’m looking to collaborate on ...
